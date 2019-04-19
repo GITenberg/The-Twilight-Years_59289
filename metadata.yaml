@@ -1,0 +1,23 @@
+_repo: The-Twilight-Years_59289
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Drussai, Garen
+    gutenberg_agent_id: '50378'
+    url: http://www.gutenberg.org/2009/agents/50378
+  - agent_name: Drussai, Kirk
+    gutenberg_agent_id: '50377'
+    url: http://www.gutenberg.org/2009/agents/50377
+description: ''
+gutenberg_issued: '2019-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59289'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Twilight Years
+url: http://www.gutenberg.org/ebooks/59289
